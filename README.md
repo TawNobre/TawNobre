@@ -9,7 +9,9 @@
 - ⚡ Curiosidade: sou bibliotecária e documentalista e, atualmente, estou cursando um mestrado em Ciência da Informação
 -->
   ##
-![TawNobre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TawNobre&show_icons=true&theme=synthwave)
+![TawNobre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TawNobre&show_icons=true&theme=synthwave) 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TawNobre&theme=synthwave&mode=weekly"/>
+<img width=46% align="center" src="https://github-readme-stats-pi-indol-22.vercel.app/api/top-langs/?username=TawNobre&show_icons=true&theme=synthwave&layout=compact" />
 ##
 <div> 
   <a href="https://www.linkedin.com/in/tawana-nobre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
