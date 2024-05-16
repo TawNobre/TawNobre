@@ -9,8 +9,8 @@
 - ⚡ Curiosidade: sou bibliotecária e documentalista e, atualmente, estou cursando um mestrado em Ciência da Informação
 -->
   ##
-![TawNobre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TawNobre&show_icons=true&theme=synthwave) 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TawNobre&theme=synthwave&mode=weekly"/>
+![TawNobre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TawNobre&show_icons=true&theme=synthwave) <br>
+<img width=46% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TawNobre&theme=synthwave&mode=weekly"/><br>
 <img width=46% align="center" src="https://github-readme-stats-pi-indol-22.vercel.app/api/top-langs/?username=TawNobre&show_icons=true&theme=synthwave&layout=compact" />
 ##
 <div> 
